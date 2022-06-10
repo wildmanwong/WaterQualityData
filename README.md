@@ -11,6 +11,7 @@ Directory smallData - only contains the following data (423M entries):
 - ResultMeasureValue
 - ResultMeasure/MeasureUnitCode
 - State
+
 The phy.gzip file contains the physical/chemical data (2.6 GB compressed, 9.4 GB in RAM)
 The bio.gzip file contains the physical/chemical data (3.9 GB compressed, 5.8 GB in RAM)
 
