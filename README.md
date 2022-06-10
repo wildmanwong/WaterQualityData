@@ -17,5 +17,4 @@ The bio.gzip file contains the physical/chemical data (3.9 GB compressed, 5.8 GB
 
 To read the file(s) use something like this:
 
-import pandas as pd
-df = pd.read_parquet('phy.gzip')
+df = pandas.read_parquet('phy.gzip')
