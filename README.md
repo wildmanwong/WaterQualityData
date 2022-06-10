@@ -5,7 +5,7 @@ EPA collects water monitoring data.  For those that are interested in analyzing 
 Current Status: splitting and uploading files using 7-zip
 
 
-Directory smallData - only contains the following data (423M entries):
+The files only contains the following data (423M entries):
 - OrganizationFormalName
 - ActivityStartDate
 - ActivityLocation/LatitudeMeasure
